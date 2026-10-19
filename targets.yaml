@@ -447,6 +447,13 @@ overseas_general:
     status: dead
     notes: "403 as of 2026-03"
 
+  - name: QuestStack
+    submit_url: https://queststack.io/submit
+    type: form
+    auto: manual
+    lang: en
+    notes: "SaaS and software directory. Free maker listings, published after basic checks. Sign-in with an email link required. Listing links are optional nofollow or dofollow."
+
 # ============================================================
 # Overseas Web Directories / 海外网址目录站
 # SEO backlink value — most have simple submit forms
