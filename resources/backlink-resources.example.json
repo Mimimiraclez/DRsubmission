@@ -1,0 +1,18 @@
+{
+  "blog_comments": [
+    {
+      "type": "blog_comment",
+      "url": "https://example-blog.com/useful-article",
+      "has_url_field": true,
+      "has_captcha": false,
+      "link_strategy": "website_field"
+    },
+    {
+      "type": "blog_comment",
+      "url": "https://another-blog.com/tech-post",
+      "has_url_field": true,
+      "has_captcha": true,
+      "link_strategy": "website_field"
+    }
+  ]
+}
