@@ -1,5 +1,7 @@
 # Backlink Pilot v2.1
 
+> **This repository is a fork.** Curated list, batch runner, and test notes are in the [English README](README.md). Original project: [s87343472/backlink-pilot](https://github.com/s87343472/backlink-pilot).
+
 **[English](README.md)**
 
 <p align="center">

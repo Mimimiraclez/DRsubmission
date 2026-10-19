@@ -2,7 +2,7 @@
   "name": "backlink-pilot",
   "version": "2.1.0",
   "type": "module",
-  "description": "Automated backlink submission toolkit for indie hackers",
+  "description": "Fork of Backlink Pilot: curated directory list, batch runner, and bb-browser 0.14 compatibility",
   "main": "src/cli.js",
   "bin": {
     "backlink-pilot": "src/cli.js"
@@ -25,11 +25,11 @@
     "playwright",
     "rebrowser"
   ],
-  "author": "sagasu",
+  "author": "sagasu (original); Mimimiraclez (fork)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/s87343472/backlink-pilot.git"
+    "url": "https://github.com/Mimimiraclez/DRsubmission.git"
   },
   "engines": {
     "node": ">=18.0.0"
